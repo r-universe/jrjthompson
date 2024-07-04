@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "nonsmooth"]
+	path = nonsmooth
+	url = https://github.com/jrjthompson/r-package-nonsmooth
